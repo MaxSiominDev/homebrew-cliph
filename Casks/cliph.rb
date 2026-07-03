@@ -1,6 +1,6 @@
 cask "cliph" do
-  version "1.0.0"
-  sha256 "ea66464d6d2f67d7500023c03db3de28298aa6172e6019c00fb1dad130cec5aa"
+  version "1.0.1"
+  sha256 "feef7c0750fa3cbfdaa8660b0feeb6585f80e7bb4f2eb918236749ea0d90f0d8"
 
   url "https://github.com/MaxSiominDev/MacOSClipboardHistory/releases/download/v#{version}/ClipboardHistory.zip",
       verified: "github.com/MaxSiominDev/MacOSClipboardHistory/"
